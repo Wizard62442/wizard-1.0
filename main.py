@@ -5,11 +5,14 @@ a = "android/meterpreter_reverse_tcp"
 b = "android/meterpreter_reverse_http"
 c = "android/meterpreter_reverse_https"
 
-print('''\033[1;34;40m ____             _   __        ___                  _
+print('''\033[1;34;40m
+____             _   __        ___                  _
 |  _ \  __ _ _ __| | _\ \      / (_)______ _ _ __ __| |
 | | | |/ _` | '__| |/ /\ \ /\ / /| |_  / _` | '__/ _` |
 | |_| | (_| | |  |   <  \ V  V / | |/ / (_| | | | (_| |
-|____/ \__,_|_|  |_|\_\  \_/\_/  |_/___\__,_|_|  \__,_| 
+|____/ \__,_|_|  |_|\_\  \_/\_/  |_/___\__,_|_|  \__,_|
+
+\033[1;33;40mcontact me on telegrwm @DARKWIZARD62442\033[0m
 \033[0m''')
 print('''\033[1;32;40m
           |PAYLOAD|⁹                    |TYPE|                             |ABOUT|
